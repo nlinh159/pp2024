@@ -110,7 +110,7 @@ def main():
         elif choice == "2":
             show_marks(students, courses)
         else:
-            print("Program executed succesfully. Thank you and have a nice day!")
+            print("Exited. Thank you and have a nice day!")
             break
 
 # call main function
