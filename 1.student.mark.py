@@ -1,5 +1,3 @@
-print("Practical 1 - Student mark management")
-
 # input functions
 # input the number of student(s)
 def student_number():
@@ -79,6 +77,8 @@ def show_marks(s, c):
 
 # main fuction   
 def main():
+    print("Practical 1 - Student mark management")
+
     students = {}
     courses = {}
     
